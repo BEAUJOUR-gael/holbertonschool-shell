@@ -22,4 +22,11 @@ ls
 **Commande utilisée :**
 ```bash
 cd ~
+### `3-listfiles`
+> Affiche le contenu du répertoire courant en **format long**.
+
+**Commande utilisée :**
+```bash
+ls -l
+
 
