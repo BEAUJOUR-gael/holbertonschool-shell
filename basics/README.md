@@ -79,3 +79,9 @@ nano README.md
 ls -la . .. /boot
 nano README.md
 
+### `13-symbolic_link`
+> Crée un **lien symbolique** nommé `__ls__` pointant vers `/bin/ls`, dans le répertoire courant.
+
+**Commande utilisée :**
+```bash
+ln -s /bin/ls __ls__
