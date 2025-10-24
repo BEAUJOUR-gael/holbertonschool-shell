@@ -16,4 +16,10 @@ pwd
 **Commande utilisée :**  
 ```bash
 ls
+### `2-bring_me_home`
+> Change le répertoire de travail pour aller dans le **dossier personnel de l’utilisateur**.
+
+**Commande utilisée :**
+```bash
+cd ~
 
