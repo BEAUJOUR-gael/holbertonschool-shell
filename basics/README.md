@@ -55,3 +55,9 @@ mkdir /tmp/my_first_directory
 **Commande utilisée :**
 ```bash
 mv /tmp/betty /tmp/my_first_directory/
+### `8-firstdelete`
+> Supprime le fichier **betty** situé dans **/tmp/my_first_directory/**.
+
+**Commande utilisée :**
+```bash
+rm /tmp/my_first_directory/betty
