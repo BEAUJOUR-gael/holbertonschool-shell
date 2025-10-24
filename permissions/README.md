@@ -49,3 +49,9 @@ chmod u+x hello
 **Commande utilisée :**
 ```bash
 chmod ug+x,o+r hello
+### `7-everybody`
+> Ajoute la **permission d’exécution** à **tous les utilisateurs** (owner, group, others) pour le fichier `hello`.
+
+**Commande utilisée :**
+```bash
+chmod a+x hello
