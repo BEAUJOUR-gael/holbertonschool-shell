@@ -10,3 +10,10 @@ Ce dossier contient les scripts Bash permettant de manipuler le shell et d’app
 **Commande utilisée :**  
 ```bash
 pwd
+### `1-listit`
+> Affiche la **liste du contenu du répertoire courant**.
+
+**Commande utilisée :**  
+```bash
+ls
+
