@@ -22,3 +22,9 @@ whoami
 **Commande utilisée :**
 ```bash
 groups
+### `3-new_owner`
+> Change le **propriétaire** du fichier `hello` pour le rendre appartenant à l’utilisateur **betty**.
+
+**Commande utilisée :**
+```bash
+chown betty hello
