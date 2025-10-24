@@ -49,4 +49,9 @@ ls -lan
 **Commande utilisée :**
 ```bash
 mkdir /tmp/my_first_directory
+### `7-movethatfile`
+> Déplace le fichier **betty** du dossier **/tmp/** vers **/tmp/my_first_directory/**.
 
+**Commande utilisée :**
+```bash
+mv /tmp/betty /tmp/my_first_directory/
