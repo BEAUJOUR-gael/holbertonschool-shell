@@ -16,3 +16,9 @@ su betty
 **Commande utilisée :**
 ```bash
 whoami
+### `2-groups`
+> Affiche tous les **groupes** dont l’utilisateur courant fait partie.
+
+**Commande utilisée :**
+```bash
+groups
