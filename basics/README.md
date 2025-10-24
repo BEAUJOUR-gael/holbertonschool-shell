@@ -92,3 +92,9 @@ ln -s /bin/ls __ls__
 **Commande utilisée :**
 ```bash
 cp -u *.html ..
+### `15-lets_move`
+> Déplace tous les fichiers dont le **nom commence par une majuscule** vers le dossier **/tmp/u/**.
+
+**Commande utilisée :**
+```bash
+mv [A-Z]* /tmp/u/
