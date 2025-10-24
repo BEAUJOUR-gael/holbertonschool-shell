@@ -91,3 +91,9 @@ chmod --reference=olleh hello
 **Commande utilisée :**
 ```bash
 find . -type d -exec chmod a+x {} +
+### `12-directory_permissions`
+> Crée un répertoire **`my_dir`** dans le répertoire courant avec les permissions **751** (`rwxr-x--x`).
+
+**Commande utilisée :**
+```bash
+mkdir -m 751 my_dir
