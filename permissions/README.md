@@ -64,3 +64,13 @@ chmod a+x hello
 **Commande utilisée :**
 ```bash
 chmod 007 hello
+### `9-John_Doe`
+> Définit les permissions du fichier `hello` comme suit :  
+> `-rwxr-x-wx`  
+> - Owner : lecture, écriture, exécution  
+> - Group : lecture, exécution  
+> - Others : écriture, exécution
+
+**Commande utilisée :**
+```bash
+chmod 753 hello
