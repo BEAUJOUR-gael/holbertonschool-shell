@@ -28,5 +28,12 @@ cd ~
 **Commande utilisée :**
 ```bash
 ls -l
+### `4-listmorefiles`
+> Affiche le contenu du répertoire courant **en format long**, y compris les **fichiers cachés**.
+
+**Commande utilisée :**
+```bash
+ls -la
+
 
 
