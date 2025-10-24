@@ -97,3 +97,9 @@ find . -type d -exec chmod a+x {} +
 **Commande utilisée :**
 ```bash
 mkdir -m 751 my_dir
+### `13-change_group`
+> Change le **groupe propriétaire** du fichier `hello` pour le groupe **school**.
+
+**Commande utilisée :**
+```bash
+chgrp school hello
