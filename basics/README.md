@@ -110,3 +110,14 @@ rm *~
 **Commande utilisée :**
 ```bash
 rm *~
+### `17-tree`
+> Crée la structure de répertoires suivante dans le dossier courant :
+> ```
+> welcome/
+> └── to/
+>     └── school/
+> ```
+
+**Commande utilisée :**
+```bash
+mkdir -p welcome/to/school
