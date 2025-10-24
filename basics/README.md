@@ -34,6 +34,17 @@ ls -l
 **Commande utilisée :**
 ```bash
 ls -la
+### `5-listfilesdigitonly`
+> Affiche le contenu du répertoire courant :
+> - en **format long**  
+> - en **incluant les fichiers cachés**  
+> - avec les **UID et GID numériques**
+
+**Commande utilisée :**
+```bash
+ls -lan
+
+
 
 
 
