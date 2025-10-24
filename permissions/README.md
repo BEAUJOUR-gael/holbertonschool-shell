@@ -28,3 +28,9 @@ groups
 **Commande utilisée :**
 ```bash
 chown betty hello
+### `4-empty`
+> Crée un fichier vide nommé **hello**.
+
+**Commande utilisée :**
+```bash
+touch hello
