@@ -43,8 +43,10 @@ ls -la
 **Commande utilisée :**
 ```bash
 ls -lan
+### `6-firstdirectory`
+> Crée un dossier nommé **my_first_directory** dans le répertoire **/tmp/**.
 
-
-
-
+**Commande utilisée :**
+```bash
+mkdir /tmp/my_first_directory
 
