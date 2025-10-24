@@ -80,3 +80,14 @@ chmod 753 hello
 **Commande utilisée :**
 ```bash
 chmod --reference=olleh hello
+### `11-directories_permissions`
+> Ajoute la **permission d’exécution (`x`)** à tous les sous-répertoires du répertoire courant, pour :
+> - l’utilisateur (owner)
+> - le groupe
+> - les autres utilisateurs (others)
+>
+> Les fichiers normaux ne sont **pas affectés**.
+
+**Commande utilisée :**
+```bash
+find . -type d -exec chmod a+x {} +
