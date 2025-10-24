@@ -67,3 +67,4 @@ rm /tmp/my_first_directory/betty
 **Commande utilisée :**
 ```bash
 rmdir /tmp/my_first_directory
+nano README.md
