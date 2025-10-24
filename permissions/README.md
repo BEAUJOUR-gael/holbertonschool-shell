@@ -10,3 +10,9 @@ Ce dossier contient des scripts permettant de manipuler les permissions, les uti
 **Commande utilisée :**
 ```bash
 su betty
+### `1-who_am_i`
+> Affiche le **nom de l’utilisateur effectif** courant.
+
+**Commande utilisée :**
+```bash
+whoami
