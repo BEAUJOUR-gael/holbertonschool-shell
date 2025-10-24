@@ -74,3 +74,9 @@ chmod 007 hello
 **Commande utilisée :**
 ```bash
 chmod 753 hello
+### `10-mirror_permissions`
+> Définit les permissions du fichier `hello` pour qu’elles soient **identiques à celles de `olleh`**.
+
+**Commande utilisée :**
+```bash
+chmod --reference=olleh hello
