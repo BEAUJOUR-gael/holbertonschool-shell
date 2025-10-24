@@ -98,3 +98,15 @@ cp -u *.html ..
 **Commande utilisée :**
 ```bash
 mv [A-Z]* /tmp/u/
+### `16-clean_emacs`
+> Supprime tous les fichiers du répertoire courant dont le nom **se termine par le caractère `~`**.
+
+**Commande utilisée :**
+```bash
+rm *~
+### `16-clean_emacs`
+> Supprime tous les fichiers du répertoire courant dont le nom **se termine par le caractère `~`**.
+
+**Commande utilisée :**
+```bash
+rm *~
