@@ -85,3 +85,10 @@ nano README.md
 **Commande utilisée :**
 ```bash
 ln -s /bin/ls __ls__
+### `14-copy_html`
+> Copie tous les fichiers **.html** du dossier courant vers le **dossier parent**,  
+> uniquement si le fichier **n’existe pas** ou si la version source est **plus récente**.
+
+**Commande utilisée :**
+```bash
+cp -u *.html ..
