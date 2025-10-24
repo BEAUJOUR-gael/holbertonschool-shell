@@ -34,3 +34,9 @@ chown betty hello
 **Commande utilisée :**
 ```bash
 touch hello
+### `5-execute`
+> Ajoute la **permission d’exécution** au **propriétaire** du fichier `hello`.
+
+**Commande utilisée :**
+```bash
+chmod u+x hello
