@@ -55,3 +55,12 @@ chmod ug+x,o+r hello
 **Commande utilisée :**
 ```bash
 chmod a+x hello
+### `8-James_Bond`
+> Définit les permissions du fichier `hello` :
+> - Owner : aucune permission  
+> - Group : aucune permission  
+> - Others : lecture, écriture et exécution (`rwx`)
+
+**Commande utilisée :**
+```bash
+chmod 007 hello
