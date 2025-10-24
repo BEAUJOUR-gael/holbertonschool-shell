@@ -40,3 +40,12 @@ touch hello
 **Commande utilisée :**
 ```bash
 chmod u+x hello
+### `6-multiple_permissions`
+> Ajoute plusieurs permissions au fichier `hello` :
+> - **Exécution (x)** pour le **propriétaire (u)**  
+> - **Exécution (x)** pour le **groupe (g)**  
+> - **Lecture (r)** pour les **autres utilisateurs (o)**
+
+**Commande utilisée :**
+```bash
+chmod ug+x,o+r hello
