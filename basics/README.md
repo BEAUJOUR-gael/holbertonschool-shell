@@ -77,3 +77,5 @@ nano README.md
 **Commande utilisée :**
 ```bash
 ls -la . .. /boot
+nano README.md
+
