@@ -68,3 +68,12 @@ rm /tmp/my_first_directory/betty
 ```bash
 rmdir /tmp/my_first_directory
 nano README.md
+### `11-lists`
+> Affiche en **format long** et inclut les **fichiers cachés** des répertoires :
+> - le répertoire courant (`.`)
+> - le répertoire parent (`..`)
+> - le répertoire `/boot`
+
+**Commande utilisée :**
+```bash
+ls -la . .. /boot
