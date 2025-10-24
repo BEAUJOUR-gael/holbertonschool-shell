@@ -61,3 +61,9 @@ mv /tmp/betty /tmp/my_first_directory/
 **Commande utilisée :**
 ```bash
 rm /tmp/my_first_directory/betty
+### `9-firstdirdeletion`
+> Supprime le dossier **my_first_directory** situé dans **/tmp/**.
+
+**Commande utilisée :**
+```bash
+rmdir /tmp/my_first_directory
